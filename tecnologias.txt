@@ -10,9 +10,9 @@ Recurso: react.dev
 --- BACKEND ---
 [ASIGNADO A PERSONA B]
 Tecnología: Node.js
-Descripción: [descripción breve]
-Nivel: [Básico / Intermedio / Avanzado]
-Recurso: [URL o nombre de recurso]
+Descripción: Entorno de ejecución para JavaScript en el servidor; ideal para crear APIs, scripts y servicios rápidos con un ecosistema enorme de paquetes (npm).
+Nivel: Intermedio
+Recurso: Documentación oficial de Node.js — https://nodejs.org/en/docs
 --- BASE DE DATOS ---
 [ASIGNADO A PERSONA C]
 Tecnología: MongoDB
