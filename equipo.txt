@@ -2,9 +2,9 @@
 ESTADO DEL PROYECTO: En planificación
 VERSIÓN: 0.1
 === INTEGRANTE A — COORDINADOR/A ===
-Nombre: (Persona A: escribe tu nombre completo)
+Nombre: [Sergi Adria Guerra]
 Tecnología asignada: React
-Estado personal: Pendiente
+Estado personal: En progreso
 === INTEGRANTE B ===
 Nombre: (Persona B: escribe tu nombre completo)
 Tecnología asignada: Node.js
