@@ -10,6 +10,6 @@ Nombre: (Persona B: escribe tu nombre completo)
 Tecnología asignada: Node.js
 Estado personal: Pendiente
 === INTEGRANTE C ===
-Nombre: (Persona C: escribe tu nombre completo)
+Nombre: (Persona C: Daniel Jan)
 Tecnología asignada: MongoDB
-Estado personal: Pendiente
+Estado personal: En progreso
