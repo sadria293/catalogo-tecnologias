@@ -16,6 +16,6 @@ Recurso: [URL o nombre de recurso]
 --- BASE DE DATOS ---
 [ASIGNADO A PERSONA C]
 Tecnología: MongoDB
-Descripción: (Persona C: escribe una descripción breve)
-Nivel: (Persona C: Básico / Intermedio / Avanzado)
-Recurso: (Persona C: escribe una URL o nombre de recurso)
+Descripción: Base de datos NoSQL orientada a documentos, ideal para almacenar grandes volúmenes de datos en formato tipo JSON con alta escalabilidad.
+Nivel: Intermedio
+Recurso: https://learn.mongodb.com/
