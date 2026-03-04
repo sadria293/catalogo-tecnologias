@@ -1,5 +1,5 @@
 === FICHA DEL EQUIPO ===
-ESTADO DEL PROYECTO: En ejecución
+ESTADO DEL PROYECTO: Activo
 VERSIÓN: 0.2
 === INTEGRANTE A — COORDINADOR/A ===
 Nombre: [Sergi Adria Guerra]
