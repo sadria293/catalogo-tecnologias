@@ -4,9 +4,9 @@ RESPONSABLE: (completar con el nombre del revisor)
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
 Tecnología: React
-Descripción: (Persona A: escribe una descripción breve)
-Nivel: (Persona A: Básico / Intermedio / Avanzado)
-Recurso: (Persona A: escribe una URL o nombre de recurso)
+Descripción: es una biblioteca de JavaScript diseñada para construir interfaces de usuario interactivas y escalables mediante el uso de componentes reutilizables
+Nivel: Básico
+Recurso: react.dev
 --- BACKEND ---
 [ASIGNADO A PERSONA B]
 Tecnología: Node.js
@@ -16,6 +16,6 @@ Recurso: Documentación oficial de Node.js — https://nodejs.org/en/docs
 --- BASE DE DATOS ---
 [ASIGNADO A PERSONA C]
 Tecnología: MongoDB
-Descripción: (Persona C: escribe una descripción breve)
-Nivel: (Persona C: Básico / Intermedio / Avanzado)
-Recurso: (Persona C: escribe una URL o nombre de recurso)
+Descripción: Base de datos NoSQL orientada a documentos, ideal para almacenar grandes volúmenes de datos en formato tipo JSON con alta escalabilidad.
+Nivel: Intermedio
+Recurso: https://learn.mongodb.com/
